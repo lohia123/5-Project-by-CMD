@@ -1,0 +1,17 @@
+from numpy import *
+arr = array([1,2,3,4,5],int)
+arr1= array([5,4,3,2,1])
+print(arr[1])
+print(sin(arr))
+print(cos(arr))
+print(log(arr))
+print(sqrt(arr))
+print(square(arr))
+print(sum(arr))
+print(min(arr))
+print(max(arr))
+print(concatenate([arr,arr1]))
+print(arr+arr1)
+arr2=arr1.view()
+print(round(1.5))
+
