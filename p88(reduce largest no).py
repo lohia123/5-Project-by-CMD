@@ -4,3 +4,4 @@ largest=reduce((lambda x,y:x if x>y else y),list1)
 print('largest no=',largest)
 # product = reduce(lambda x,y:x*y,list1)
 # print(product)
+# print
